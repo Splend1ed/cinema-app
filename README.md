@@ -50,6 +50,16 @@ For simple use you can add extension in your browser and fill token like this:
 ```
 127.0.0.1:8000/api/doc/swagger/
 ```
+## Features
+<hr>
+
+* JWT Authentication - /api/user/token/
+* Admin panel - /admin/
+* Documentation - /api/doc/swagger/
+* Managing orders and tickets
+* Creating movies, genres, actors, cinema_halls, movie_sessions
+* Filtering movie by title, actor id, genre id
+
 
 ## Run with docker
 <hr>
